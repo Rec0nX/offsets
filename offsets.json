@@ -4,21 +4,21 @@
   "updated": "2024-01-15T12:00:00Z",
   "game_build": "++Fortnite+Release-28.20-CL-34123456",
   
-  "uworld": "0x173AF320",
+  "uworld": "0x18047488",
   "GEngine": "0x14F97328",
   "GNames": "0x17DF93C0",
   
   "Levels": "0x1C0",
   "PersistentLevel": "0x40",
-  "game_state": "0x1D8",
-  "game_instance": "0x250",
+  "game_state": "0x1C0",
+  "game_instance": "0x238",
   "local_player": "0x38",
   "player_controller": "0x30",
   "acknowledged_pawn": "0x350",
   
-  "CameraLocation": "0x180",
-  "CameraRotation": "0x190",
-  "WorldTimeSeconds": "0x1A0",
+  "CameraLocation": "0x170",
+  "CameraRotation": "0x180",
+  "WorldTimeSeconds": "0x190",
   "CameraManager": "0x360",
   "current_vehicle": "0x2D00",
   
@@ -33,7 +33,7 @@
   "RankedProgress": "0xD0",
   "ReviveFromDBNOTime": "0x4e60",
   "Spectators": "0xB80",
-  "PLAYERNAME": "0xB40",
+  "PLAYERNAME": "0xB48",
   "PlayerNamePrivate": "0x340",
   
   "root_component": "0x1B0",
@@ -47,11 +47,11 @@
   "component_to_world": "0x1E0",
   "relative_location": "0x138",
   "relative_rotation": "0x150",
-  "LastRenderTime": "0x32C",
-  "LastRenderTimeOnScreen": "0x328",
+  "LastRenderTime": "0x330",
+  "LastRenderTimeOnScreen": "0x2f0",
   
-  "current_weapon": "0xAF0",
-  "weapon_data": "0x548",
+  "current_weapon": "0xa80",
+  "weapon_data": "0x550",
   "WeaponCoreAnimation": "0x16D8",
   "PrimaryPickupItemEntry": "0x370",
   "ItemDefinition": "0x8",
@@ -82,7 +82,7 @@
   "ControlRotation": "0x528",
   "RotationInputCopy": "0x890",
   
-  "team_index": "0x1291",
+  "team_index": "0x12C1",
   "MouseSensitivityX": "0x6E4",
   "MouseSensitivityY": "0x6E8",
   
@@ -92,9 +92,9 @@
   "BuildingState": "0x2000",
   "SpawnSourceOverride": "0xC90",
   
-  "CurrentWeapon": "0xAF0",
+  "CurrentWeapon": "0xa80",
   "AmmoCount": "0x10EC",
-  "WeaponData": "0x548",
+  "WeaponData": "0x550",
   "Tier": "0xA2",
   "ItemName": "0x40",
   
